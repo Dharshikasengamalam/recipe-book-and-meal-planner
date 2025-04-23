@@ -1,16 +1,24 @@
-# recipe_meal_planner
+# Flutter Recipe Book & Meal Planner App
 
-A new Flutter project.
+A full-featured Flutter application designed to simplify meal planning and recipe management. Users can create and manage recipes, plan meals using a calendar interface, and automatically generate grocery lists based on planned meals. Built with Firebase for backend services including authentication and data storage.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 🔐 Authentication
+- Secure user registration and login via Firebase Authentication.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🍽️ Recipe Book
+- Add, edit, and delete recipes with image support.
+- Display recipes in a horizontally scrollable list.
+- Search functionality to quickly find saved recipes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📅 Meal Planner
+- Plan meals for breakfast, lunch, and dinner using a calendar view.
+- Save and retrieve meals by date from Firestore.
+- View meal planning history.
+
+### 🛒 Grocery List
+- Automatically generate a grocery list based on the planned meals.
+- Checkbox functionality to mark items as purchased.
