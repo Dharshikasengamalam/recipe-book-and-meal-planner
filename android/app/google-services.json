@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330978033723",
+    "project_id": "recipe-and-meal-planner-f276b",
+    "storage_bucket": "recipe-and-meal-planner-f276b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330978033723:android:9f089c5e8f4cf99ed9dc1e",
+        "android_client_info": {
+          "package_name": "com.example.recipe_meal_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRJZN8lDXU11fj0ZdP24kae5C94AmBYsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
